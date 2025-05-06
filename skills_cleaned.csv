@@ -1,0 +1,36 @@
+skill_abr,skill_name,skill_category
+ART,Art/Creative,soft 
+DSGN,Design,soft 
+ADVR,Advertising,business
+PRDM,Product Management,business
+DIST,Distribution,business
+EDU,Education,soft 
+TRNG,Training,soft 
+PRJM,Project Management,business
+CNSL,Consulting,business
+PRCH,Purchasing,business
+SUPL,Supply Chain,business
+ANLS,Analyst,technical
+HCPR,Health Care Provider,business
+RSCH,Research,technical
+SCI,Science,technical
+GENB,General Business,business
+CUST,Customer Service,soft 
+STRA,Strategy/Planning,business
+FIN,Finance,business
+OTHR,Other,general
+LGL,Legal,business
+ENG,Engineering,technical
+QA,Quality Assurance,technical
+BD,Business Development,business
+IT,Information Technology,technical
+ADM,Administrative,soft 
+PROD,Production,business
+MRKT,Marketing,business
+PR,Public Relations,soft 
+WRT,Writing/Editing,soft 
+ACCT,Accounting/Auditing,business
+HR,Human Resources,business
+MNFC,Manufacturing,business
+SALE,Sales,business
+MGMT,Management,business
