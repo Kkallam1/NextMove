@@ -1,7 +1,15 @@
 # 🌩 Cloud Career Insights Dashboard
+![Home Page](./home_page.png)
 
 Empowering Careers in the Evolving World of Cloud Computing  
-**Team 17**: Krishna Chaitanya Reddy Kallam, Sai Kandi, Josh Rajesh Reddy Katakam, Jasmithi Karri, Nishanth Kannepogu, Mahender Reddy Kamidi
+
+**Team 17**: 
+- Krishna Chaitanya Reddy Kallam
+- Sai Kandi
+- Josh Rajesh Reddy Katakam
+- Jasmithi Karri
+- Nishanth Kannepogu
+- Mahender Reddy Kamidi
 
 ---
 
@@ -69,28 +77,37 @@ Key tasks included:
 ## 📊 Dashboard Features (Power BI)
 
 ### 1. **Hiring Trends & Demand**
-- KPIs: Number of companies hiring, job locations, average min/max salaries
-- Visuals: Bar chart (trending roles), pie chart (top locations), gauge (cloud job density)
-- Filters: Employment type
-![Hiring Trends & Demand](hiring trends.png)
+- Identify most in-demand cloud roles over time
+- Spot regional trends in cloud job availability
+- Measure the momentum of cloud hiring across industries
+- Helps job seekers target high-demand roles and recruiters focus on competitive hiring zones
+
+![Hiring Trends & Demand](./hiring_trends.png)
 
 ### 2. **Salary Insights**
-- Distribution by job type and location
-- Salary buckets across job titles
-- Company tier and size breakdowns
-![Salary Insights](salary insights.png)
+- Explore salary distribution across job titles and locations
+- Discover which roles and companies offer premium compensation
+- Understand how company size and region affect salary offerings
+- Crucial for salary negotiations and equity audits for hiring managers
+
+![Salary Insights](./salary_insights.png)
 
 ### 3. **Skill Analysis**
-- Most in-demand skills and role-skill requirements
-- Skill category (technical, business, general, soft)
-- Average skills per job metric
-![Skill Analysis](skills analysis.png)
+- Understand the core skillset needed for each cloud role
+- Spot upskilling opportunities by observing which skills are frequently paired
+- Reveals the breadth of expertise expected from candidates
+- Helps educators align curricula with real-world hiring demands
+
+![Skill Analysis](./skills_analysis.png)
 
 ### 4. **Company & Industry Analysis**
-- Top hiring companies and most active industries
-- Average company size, LinkedIn followers, job views
-- Insights into enterprise vs. startup hiring trends
-![Company and Industry Analysis](company & industries.png)
+- Discover which industries are investing heavily in cloud talent
+- Identify enterprise vs startup hiring patterns
+- Evaluate company social presence vs actual hiring volume
+- Beneficial for job seekers prioritizing industry verticals or employer size preferences
+
+![Company and Industry Analysis](./company_&_industries.png)
+
 ---
 
 ## 🧠 Technical Tools Used
@@ -117,14 +134,14 @@ Key tasks included:
 
 ## 📽 Presentations
 
-### 🎤 [Technical Presentation (PPT)](Technical - Cloud Career Insights Dashboard.pptx)  
+### 🎤 [Technical Presentation (PPT)](./Technical_Cloud_Career_Insights_Dashboard.pptx)  
 Covers user context, transformation strategy, data logic, and visual explanations.
 
-### 🎤 [Reflection Presentation (PPT)](Reflection - Cloud Career Insights Dashboard.pptx)  
+### 🎤 [Reflection Presentation (PPT)](./Reflection_Cloud_Career_Insights_Dashboard.pptx)  
 Includes learning reflections, team coordination efforts, and future applications.
 
 ### 📹 Final Video Demo   
-A guided 10-minute walkthrough of the full dashboard (embed link once uploaded).
+A guided 10-minute walkthrough of the full dashboard.
 
 ---
 
@@ -151,8 +168,8 @@ A guided 10-minute walkthrough of the full dashboard (embed link once uploaded).
 
 ---
 
-## 💡 Instructions to View
-1. Open `dashboard.pbix` using Power BI Desktop.
+## 💡 Instructions to View Dashboard
+1. Open `[`MRP.pbix`](./MRP.pbix)` using Power BI Desktop.
 2. Use the slicers to filter by location, company, and job title.
 3. View Hiring Trends, Skill Demand, Salary Insights, and Company Profiles.
 
